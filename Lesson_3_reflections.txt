@@ -1,0 +1,6 @@
+When would you want to create a remote repository rather than keeping all your files local?
+
+In case you need to show, share, give access to or access your work when your computer is not available. 
+
+
+
