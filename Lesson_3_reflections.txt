@@ -4,3 +4,17 @@ In case you need to show, share, give access to or access your work when your co
 
 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+To keep your version of the file as is
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork : copy of remote repository to remote repository
+Clone: Copy of local to local, or remote to local
+Branches: Local split within repository with different name
+
+
+
